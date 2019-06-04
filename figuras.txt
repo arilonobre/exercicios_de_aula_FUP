@@ -1,0 +1,7 @@
+#Lista de figuras geometricas
+#"tipo da figura" "parametros"
+r 2.0 1.2
+c 5.8
+# t 1.23 1.2
+t 4.0 1.02
+c 5.1 5
